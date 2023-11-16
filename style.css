@@ -14,7 +14,7 @@
 }
 
 .header {
-  height: 100px;
+  height: 150px;
   width: 100%;
   background-color: #FFCD00;
   position: relative;
@@ -56,6 +56,10 @@ nav {
   padding: 2% 3%;
   justify-content: space-between;
   align-items: left;
+}
+
+nav img {
+  width: 70px;
 }
 
 .portfolioimg {
