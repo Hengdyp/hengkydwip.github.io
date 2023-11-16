@@ -6,7 +6,7 @@
 }
 
 .headerhome {
-  height: 640px;
+  height: 600px;
   width: 100%;
   background-color: #FFCD00;
   position: relative;
@@ -14,7 +14,7 @@
 }
 
 .header {
-  height: 100px;
+  height: 150px;
   width: 100%;
   background-color: #FFCD00;
   position: relative;
@@ -30,7 +30,7 @@
   width: 100%;
   color: #27316D;
   padding-left: 3%;
-  top: 50%;
+  top: 55%;
   position: absolute;
   text-align: left;
   font-size: 32px;
