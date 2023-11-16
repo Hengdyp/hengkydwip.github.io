@@ -14,7 +14,7 @@
 }
 
 .header {
-  height: 150px;
+  height: 100px;
   width: 100%;
   background-color: #FFCD00;
   position: relative;
@@ -28,7 +28,7 @@
 
 .text-box {
   width: 100%;
-  color: #27316D;
+  color: #142B6F;
   padding-left: 3%;
   top: 55%;
   position: absolute;
@@ -41,14 +41,14 @@
   padding-bottom: 3%;
   font-size: 32px;
   font-weight: 400;
-  color: #27316D;
+  color: #142B6F;
   text-decoration: none;
 }
 .worktitle {
   padding-bottom: 5%;
   font-size: 36px;
   font-weight: 600;
-  color: #27316D;
+  color: #F5C400;
 }
 
 nav {
@@ -82,7 +82,7 @@ nav img {
 }
 
 .nav-links ul li a {
-    color: #27316D;
+    color: #142B6F;
     text-decoration: none;
     font-size: 18px;
     font-weight: 400;
@@ -92,7 +92,7 @@ nav img {
     content: "";
     width: 0%;
     height: 2px;
-    background: #27316D;
+    background: #142B6F;
     display: block;
     margin: auto;
     transition: 0.4s;
@@ -114,7 +114,7 @@ nav img {
 .column1 {
     float: left;
     padding-left: 3%;
-    color: #27316D;
+    color: #142B6F;
     min-height: 1px;
 }
 
@@ -129,7 +129,7 @@ nav img {
 .column2 {
   float: left;
   padding-left: 3%;
-  color: #27316D;
+  color: #142B6F;
   min-height: 1px;
 }
 
@@ -145,7 +145,7 @@ nav img {
   float: left;
   width:29%;
   padding-left: 3%;
-  color: #27316D;
+  color: #142B6F;
   min-height: 1px;
 }
 .row::after {
@@ -160,7 +160,7 @@ nav img {
   padding-top: 12px;
   background-color: #F0F0F0;
   position: relative;
-  color: #27316D;
+  color: #142B6F;
   text-align: left;
 }
 .footer-nav-links {
@@ -168,7 +168,7 @@ nav img {
   text-align: left;
   text-decoration: underline;
   transition-duration: 0.4s;
-  color: #27316D;
+  color: #142B6F;
 }
 
 .footer-nav-links ul li {
@@ -179,7 +179,7 @@ nav img {
 }
 
 .footer-nav-links ul li a {
-    color: #27316D;
+    color: #142B6F;
     text-decoration: none;
     font-size: 18px;
 }
@@ -188,7 +188,7 @@ nav img {
     content: "";
     width: 0%;
     height: 2px;
-    background: #27316D;
+    background: #142B6F;
     display: block;
     margin: auto;
     transition: 0.4s;
@@ -202,7 +202,7 @@ nav img {
   float: left;
   width:13.2%;
   padding-left: 3%;
-  color: #27316D;
+  color: #142B6F;
   min-height: 1px;
 }
 
@@ -220,6 +220,6 @@ nav img {
   padding-bottom: 5%;
   font-size: 24px;
   font-weight: 400;
-  color: #27316D;
+  color: #142B6F;
 }
 
